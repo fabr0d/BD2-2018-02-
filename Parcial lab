@@ -1,0 +1,22 @@
+Entorno para creacion de Tablas						
+Crear tabla ALUMNO (id:entero, nombre:varchar(30),edad:entero)						
+2 tipos de datos: Enetero y Varchar (n)						
+						
+Se crearia alumnos.dbf						
+						
+inserte_reg ALUMNO (1,'Javier', 18)						
+inserte_reg ALUMNO (1,'Renzo', 18)						
+						
+						
+borra_reg ALUMNO WHERE id = 5						
+						
+						
+actualiza_reg ALUMNO SET edad = 41 WHERE id = 1						
+						
+Selección_reg ALUMNO WHERE id= 1						
+						
+						
+SABADO 06 DE OCTUBRE						
+						
+		inserta	borra	selecciona	actualiza	
+		5		5		5			5			20
